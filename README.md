@@ -13,4 +13,4 @@ Visual Studio Code
 
 [Presentation](https://docs.google.com/presentation/d/1NnTzM4in-Zqy-AkvwTOxKllz7S2kOZqgdLxKn46UIi0/edit?usp=sharing)
 
-[Live Link](https://docs.google.com/presentation/d/1NnTzM4in-Zqy-AkvwTOxKllz7S2kOZqgdLxKn46UIi0/edit?usp=sharing)
+[Live Link](https://girlcode-iwd.herokuapp.com/)
